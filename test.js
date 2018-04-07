@@ -1,2 +1,2 @@
 const createTriangleToSquareWaveGif = require('.')
-createTriangleToSquareWaveGif(100, 20, 'test.gif')
+createTriangleToSquareWaveGif(25, 5, 'test.gif')
